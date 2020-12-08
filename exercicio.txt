@@ -1,0 +1,8 @@
+Crie um repositório chamado "lista-exercicios-js" (Não se esqueça de criar o READE.me)
+Clone este repositório no seu computador
+Abra a pasta "lista-exercicios-js" no visual studio code
+Crie um arquivo index.html , um arquivo js/funcoes.js , um arquivo css/estilos.css , uma pasta images
+Conecte o arquivo estilos.css ao arquivo index.html
+Conecte o arquivo funcoes.js ao arquivo index.html
+Preparar o commit
+Enviar os arquivos para o github
